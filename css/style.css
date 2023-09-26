@@ -123,8 +123,9 @@ nav a:hover, nav a:focus {
 }
 
 /* Step 3: Write selector/rule property to style all elements when in focus*/
-
-
+:focus { 
+  border: solid 2px black; 
+}
 
 /* Step 4: Write selector/rule property to style the container */
 
