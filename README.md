@@ -1,3 +1,1 @@
 # Responsive Grid
-
-test
